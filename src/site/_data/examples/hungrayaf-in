@@ -1,0 +1,10 @@
+title: Hungry AF?
+description: Here's the easiest recipes delivered to you in a blog. Quickly make the best food with minimal ingredients.
+link: https://www.hungryaf.in/
+thumbnailurl: /img/cms/examples/hungryafin.jpg
+tools:
+  - Hugo
+  - Netlify
+  - Github
+  - Forestry
+  - PWA
